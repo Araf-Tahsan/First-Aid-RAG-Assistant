@@ -29,5 +29,5 @@ You will need a Google account (if running in Colab) and a free [Google Gemini A
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/first-aid-rag.git](https://github.com/yourusername/first-aid-rag.git)
-   cd first-aid-rag
+   git clone https://github.com/Araf-Tahsan/First-Aid-RAG-Assistant.git
+   cd First-Aid-RAG-Assistant
